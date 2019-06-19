@@ -10,6 +10,7 @@ using System.Windows.Forms;
 using System.Media;
 
 namespace Gunfire_Game
+    //from here i begin my codding
 {
     public partial class Form1 : Form
     {
@@ -72,6 +73,7 @@ namespace Gunfire_Game
         }
 
         private void button1_Click(object sender, EventArgs e)
+            //this is for the sound
         {
             x = x + 1;
             {
